@@ -1,0 +1,220 @@
+﻿{
+  "data": [
+    {
+      "keyword": "Domain",
+      "category": "Site",
+      "value": "/",
+      "dataType": 7,
+      "description": "Domain",
+      "priority": 0,
+      "status": 2
+    },
+    {
+      "keyword": "SiteName",
+      "category": "Site",
+      "value": "Mix Core",
+      "dataType": 7,
+      "description": "Site Name",
+      "priority": 0,
+      "status": 2
+    },
+    {
+      "keyword": "LanguageVersion",
+      "category": "System",
+      "value": 1,
+      "dataType": 7,
+      "description": "Language Version",
+      "priority": 0,
+      "status": 2
+    },
+    {
+      "keyword": "SettingVersion",
+      "category": "System",
+      "value": 1,
+      "dataType": 7,
+      "description": "Settings Version",
+      "priority": 0,
+      "status": 2
+    },
+    {
+      "keyword": "ContactAddress",
+      "category": "Site_Common",
+      "value": "",
+      "dataType": 7,
+      "description": "Address",
+      "priority": 0,
+      "status": 2
+    },
+    {
+      "keyword": "ContactEmail",
+      "category": "Site_Common",
+      "value": "",
+      "dataType": 10,
+      "description": "Email",
+      "priority": 0,
+      "status": 2
+    },
+    {
+      "keyword": "ContactPhone",
+      "category": "Site_Common",
+      "value": "",
+      "dataType": 7,
+      "description": "Hotline",
+      "priority": 0,
+      "status": 2
+    },
+    {
+      "keyword": "Facebook_Token",
+      "category": "Social_Facebook",
+      "value": "",
+      "dataType": 9,
+      "description": "Facebook Access Token",
+      "priority": 0,
+      "status": 2
+    },
+    {
+      "keyword": "FacebookAppId",
+      "category": "Social_Facebook",
+      "value": "",
+      "dataType": 7,
+      "description": "Facebook App Id",
+      "priority": 0,
+      "status": 2
+    },
+    {
+      "keyword": "Facebook_Page_Id",
+      "category": "Social_Facebook",
+      "value": "",
+      "dataType": 7,
+      "description": "Facebook Page Id",
+      "priority": 0,
+      "status": 2
+    },
+    {
+      "keyword": "Google_Analytic_Key",
+      "category": "Social_Google",
+      "value": "",
+      "dataType": 7,
+      "description": "Google Analytic Key",
+      "priority": 0,
+      "status": 2
+    },
+    {
+      "keyword": "Google_Analytic_Ids",
+      "category": "Social_Google",
+      "value": "",
+      "dataType": 7,
+      "description": "Google Analytic Id",
+      "priority": 0,
+      "status": 2
+    },
+    {
+      "keyword": "Google_Client_Id",
+      "category": "Social_Google",
+      "value": "",
+      "dataType": 7,
+      "description": "Google Client Id",
+      "priority": 0,
+      "status": 2
+    },
+    {
+      "keyword": "Recaptcha_Key",
+      "category": "Social_Google",
+      "value": "",
+      "dataType": 7,
+      "description": "Recaptcha Key",
+      "priority": 0,
+      "status": 2
+    },
+    {
+      "keyword": "Recaptcha_Secret",
+      "category": "Social_Google",
+      "value": "",
+      "dataType": 7,
+      "description": "Recaptcha Secret",
+      "priority": 0,
+      "status": 2
+    },
+    {
+      "keyword": "Favicon",
+      "category": "Site_Common",
+      "value": "/css/portal/img/mixcore-logo-green-16x16.png",
+      "dataType": 16,
+      "description": "Favicon",
+      "priority": 0,
+      "status": 2
+    },
+    {
+      "keyword": "Logo",
+      "category": "Site_Common",
+      "value": "/css/portal/img/mixcore-logo-green.png",
+      "dataType": 16,
+      "description": "Logo",
+      "priority": 0,
+      "status": 2
+    },
+    {
+      "keyword": "LogoWhite",
+      "category": "Site_Common",
+      "value": "",
+      "dataType": 16,
+      "description": "Logo White",
+      "priority": 0,
+      "status": 2
+    },
+    {
+      "keyword": "LogoBlack",
+      "category": "Site_Common",
+      "value": "",
+      "dataType": 16,
+      "description": "Logo Black",
+      "priority": 0,
+      "status": 2
+    },
+    {
+      "keyword": "ThemeName",
+      "category": "Site",
+      "value": "Default",
+      "dataType": 7,
+      "description": "Theme Name",
+      "priority": 0,
+      "status": 2
+    },
+    {
+      "keyword": "ThemeFolder",
+      "category": "Site_Settings",
+      "value": "Default",
+      "dataType": 7,
+      "description": "Theme Folder",
+      "priority": 0,
+      "status": 2
+    },
+    {
+      "keyword": "ThemeId",
+      "category": "Site_Settings",
+      "value": "1",
+      "dataType": 7,
+      "description": "Theme Id",
+      "priority": 0,
+      "status": 2
+    },
+    {
+      "keyword": "DateTimeFormat",
+      "category": "System",
+      "value": "dd-MM-yyyy HH:mm:ss",
+      "dataType": 7,
+      "description": "Date Time Format",
+      "priority": 0,
+      "status": 2
+    },
+    {
+      "keyword": "StartWeekOn",
+      "category": "System",
+      "value": "Monday",
+      "dataType": 7,
+      "description": "Day",
+      "priority": 0,
+      "status": 2
+    }
+  ]
+}
